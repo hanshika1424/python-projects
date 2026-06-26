@@ -4,8 +4,8 @@ Collection of beginner python project made as practice while learning.
 This repository contains all python project I built as I learn python from scratch.
 ## Projects:
 -Calculator
-## Upcoming projects:
 -Rock paper scissor
+## Upcoming projects:
 -quiz game
 -Number guessing game
 ## Skills practice:
