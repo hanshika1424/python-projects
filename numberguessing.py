@@ -1,7 +1,7 @@
 import random
 number = random.randrange(1,101)
 attempt = 1
-for attempt in range(1,11):
+for attempt in range(1,8):
     num = int(input("What's your guess between 1 to 100?"))
     if num == number:   
         break
